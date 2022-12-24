@@ -3,10 +3,9 @@
         {
             "id": 0,
             "name": "Amit",
-            "age": 22,
-            "batch":"WEB-13",
-            "profession": "student",
-            "place": "Delhi"
+            "difficulty": "easy",
+            "amount":10,
+            "category": "Sports"
         }
     ]
 }
